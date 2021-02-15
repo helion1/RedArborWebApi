@@ -1,0 +1,9 @@
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\bin\Debug\RedArbor.Infrastructure.Repository.Interfaces.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\bin\Debug\RedArbor.Infrastructure.Repository.Interfaces.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\obj\Debug\RedArbor.Infrastructure.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\obj\Debug\RedArbor.Infrastructure.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\obj\Debug\RedArbor.Infrastructure.Repository.Interfaces.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\obj\Debug\RedArbor.Infrastructure.Repository.Interfaces.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\bin\Debug\RedArbor.Domain.Entities.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\bin\Debug\RedArbor.Domain.Entities.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository.Interfaces\obj\Debug\RedArbor.Infrastructure.Repository.Interfaces.csproj.CopyComplete

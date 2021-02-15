@@ -1,0 +1,6 @@
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\bin\Debug\RedArbor.Domain.Entities.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\bin\Debug\RedArbor.Domain.Entities.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\obj\Debug\RedArbor.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\obj\Debug\RedArbor.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\obj\Debug\RedArbor.Domain.Entities.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Domain.Entities\obj\Debug\RedArbor.Domain.Entities.pdb

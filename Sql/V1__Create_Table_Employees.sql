@@ -1,0 +1,15 @@
+CREATE TABLE Employee (
+	CompanyId int primary key,
+	CreatedOn datetime,
+	DeletedOn datetime,
+	Email varchar(50) not null,
+	Fax varchar(15),
+	Name varchar(50) not null,
+	LastLogin datetime,
+	Password varchar(32) not null,
+	PortalId int,
+	RoleId int,
+	StatusId int,
+	Telephone varchar(15),
+	UpdatedOn datetime default (getdate()),
+	Username varchar(20) not null)

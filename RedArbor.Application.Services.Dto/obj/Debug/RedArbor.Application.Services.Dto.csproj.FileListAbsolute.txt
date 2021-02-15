@@ -1,0 +1,9 @@
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\obj\Debug\RedArbor.Application.Services.Dto.csprojAssemblyReference.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\obj\Debug\RedArbor.Application.Services.Dto.csproj.CoreCompileInputs.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\bin\Debug\RedArbor.Application.Services.Dto.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\bin\Debug\RedArbor.Application.Services.Dto.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\obj\Debug\RedArbor.Application.Services.Dto.csproj.CopyComplete
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\obj\Debug\RedArbor.Application.Services.Dto.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Application.Services.Dto\obj\Debug\RedArbor.Application.Services.Dto.pdb

@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Facade.WebApi", "RedArbor.WebApi\RedArbor.Facade.WebApi.csproj", "{27D23E33-EAA9-4081-8EE0-814535C06587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.WebApi.Unit.Tests", "RedArbor.WebApi.Tests\RedArbor.WebApi.Unit.Tests.csproj", "{767021EB-83D7-4883-976B-B4B0018CB5E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Application", "{34207E1D-BA95-45BA-A9D1-A7E1DC07A59E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain", "3. Domain", "{B2A77CBB-7195-458F-8D89-840B07655C9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Infrastructure", "4 Infrastructure", "{3322A7F4-09FC-4FF6-9BCD-A07A81ACCD88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Test", "5. Test", "{E2A3D827-39E6-4067-BB44-F4813E94885C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Application.Services", "RedArbor.Application.Services\RedArbor.Application.Services.csproj", "{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Application.Services.Interfaces", "RedArbor.Application.Services.Interfaces\RedArbor.Application.Services.Interfaces.csproj", "{5EA69C37-D4D0-4D3D-9792-35868576F4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Domain.Entities", "RedArbor.Domain.Entities\RedArbor.Domain.Entities.csproj", "{B8EBB648-5565-4427-A962-7EA384C8A661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Infrastructure.Repository", "RedArbor.Infrastructure.Repository\RedArbor.Infrastructure.Repository.csproj", "{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Infrastructure.Repository.Interfaces", "RedArbor.Infrastructure.Repository.Interfaces\RedArbor.Infrastructure.Repository.Interfaces.csproj", "{A851DA72-F15D-4849-84D6-5F8FC84562C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Api", "1. Api", "{9A715B25-E92E-4EDC-ABC8-7719BDD109A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.Application.Services.Dto", "RedArbor.Application.Services.Dto\RedArbor.Application.Services.Dto.csproj", "{892DD0CF-46F2-44A4-9525-EDDB18EB4516}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit.Tests", "Unit.Tests", "{D9A7A85D-3474-47B4-82C4-883A4378B8FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration.Tests", "Integration.Tests", "{8763C167-E651-4062-B9BF-5731DEAD4857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArbor.WebApi.Integration.Tests", "RedArbor.WebApi.Integration.Tests\RedArbor.WebApi.Integration.Tests.csproj", "{78A466D7-90C7-439F-9106-A295D0445D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D23E33-EAA9-4081-8EE0-814535C06587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D23E33-EAA9-4081-8EE0-814535C06587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D23E33-EAA9-4081-8EE0-814535C06587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D23E33-EAA9-4081-8EE0-814535C06587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767021EB-83D7-4883-976B-B4B0018CB5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767021EB-83D7-4883-976B-B4B0018CB5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767021EB-83D7-4883-976B-B4B0018CB5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767021EB-83D7-4883-976B-B4B0018CB5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA69C37-D4D0-4D3D-9792-35868576F4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA69C37-D4D0-4D3D-9792-35868576F4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA69C37-D4D0-4D3D-9792-35868576F4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA69C37-D4D0-4D3D-9792-35868576F4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EBB648-5565-4427-A962-7EA384C8A661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EBB648-5565-4427-A962-7EA384C8A661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EBB648-5565-4427-A962-7EA384C8A661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EBB648-5565-4427-A962-7EA384C8A661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A851DA72-F15D-4849-84D6-5F8FC84562C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A851DA72-F15D-4849-84D6-5F8FC84562C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A851DA72-F15D-4849-84D6-5F8FC84562C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A851DA72-F15D-4849-84D6-5F8FC84562C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892DD0CF-46F2-44A4-9525-EDDB18EB4516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892DD0CF-46F2-44A4-9525-EDDB18EB4516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892DD0CF-46F2-44A4-9525-EDDB18EB4516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892DD0CF-46F2-44A4-9525-EDDB18EB4516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A466D7-90C7-439F-9106-A295D0445D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A466D7-90C7-439F-9106-A295D0445D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A466D7-90C7-439F-9106-A295D0445D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A466D7-90C7-439F-9106-A295D0445D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27D23E33-EAA9-4081-8EE0-814535C06587} = {9A715B25-E92E-4EDC-ABC8-7719BDD109A9}
+		{767021EB-83D7-4883-976B-B4B0018CB5E8} = {D9A7A85D-3474-47B4-82C4-883A4378B8FE}
+		{AC4E449E-C157-41F7-B0A1-15AD1D06C1C9} = {34207E1D-BA95-45BA-A9D1-A7E1DC07A59E}
+		{5EA69C37-D4D0-4D3D-9792-35868576F4F5} = {34207E1D-BA95-45BA-A9D1-A7E1DC07A59E}
+		{B8EBB648-5565-4427-A962-7EA384C8A661} = {B2A77CBB-7195-458F-8D89-840B07655C9E}
+		{C4E0B3F4-AD5C-475B-9DEF-0FFA48FF62DA} = {3322A7F4-09FC-4FF6-9BCD-A07A81ACCD88}
+		{A851DA72-F15D-4849-84D6-5F8FC84562C9} = {3322A7F4-09FC-4FF6-9BCD-A07A81ACCD88}
+		{892DD0CF-46F2-44A4-9525-EDDB18EB4516} = {34207E1D-BA95-45BA-A9D1-A7E1DC07A59E}
+		{D9A7A85D-3474-47B4-82C4-883A4378B8FE} = {E2A3D827-39E6-4067-BB44-F4813E94885C}
+		{8763C167-E651-4062-B9BF-5731DEAD4857} = {E2A3D827-39E6-4067-BB44-F4813E94885C}
+		{78A466D7-90C7-439F-9106-A295D0445D3C} = {8763C167-E651-4062-B9BF-5731DEAD4857}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17508F87-86D0-4323-AC5E-BFD9D463B02F}
+	EndGlobalSection
+EndGlobal

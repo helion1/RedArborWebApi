@@ -1,0 +1,13 @@
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Infrastructure.Repository.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Infrastructure.Repository.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Infrastructure.Repository.Interfaces.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Infrastructure.Repository.Interfaces.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.Resources.InfrastructureResource.resources
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.csproj.GenerateResource.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\obj\Debug\RedArbor.Infrastructure.Repository.pdb
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Domain.Entities.dll
+C:\Users\promo\source\repos\RedArbor\RedArbor\RedArbor.Infrastructure.Repository\bin\Debug\RedArbor.Domain.Entities.pdb
