@@ -46,16 +46,21 @@ Capa con Tests Unitarios con mocks y 2 de Integración, ya que he priorizado el 
 
 ### Guía de usuario
 ---
-####GET  http://localhost:{puerto}/api/EmployeeApi
+###GET  http://localhost:{puerto}/api/EmployeeApi
 Devuelve todos los empleados
-####GET  http://localhost:{puerto}/api/EmployeeApi/id
+
+###GET  http://localhost:{puerto}/api/EmployeeApi/id
 Devuelve un empleado mediante su id
-####POST http://localhost:{puerto}/api/EmployeeApi  + Json(Employee)
+
+###POST http://localhost:{puerto}/api/EmployeeApi  + Json(Employee)
 Inserta un empleado en la DB pasándoleselo en formato Json
-####PUT  http://localhost:{puerto}/api/EmployeeApi/1   + string("test1updated")
+
+###PUT  http://localhost:{puerto}/api/EmployeeApi/1   + string("test1updated")
 Actualiza el Username (mediante un string) de un empleado buscándolo por su id
-####DELETE  http://localhost:{puerto}/api/EmployeeApi/1 
+
+###DELETE  http://localhost:{puerto}/api/EmployeeApi/1 
 Elimina un empleado mediante su id
+
 
 
  	
